@@ -1,8 +1,18 @@
 <template>
   <div>
+    <siteNav />
     <nuxt />
   </div>
 </template>
+
+<script>
+import siteNav from '@/components/siteNav'
+export default {
+  components: {
+    siteNav
+  }
+}
+</script>
 
 <style>
 .button--green {
