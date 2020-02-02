@@ -12,7 +12,7 @@
         <a
           href="https://nuxtjs.org/"
           target="_blank"
-          class="button--green"
+          class="button is-primary"
         >
           Documentation
         </a>
